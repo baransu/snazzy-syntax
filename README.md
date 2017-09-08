@@ -3,6 +3,7 @@
 > Elegant [Atom](https://atom.io) theme with bright colors, based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme by [Sindre Sorhus](https://github.com/sindresorhus).
 
 ![](screenshot.png)
+> The font used in the screenshot is Menlo
 
 This is initial release and theme requires a lot of work.
 
