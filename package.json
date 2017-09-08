@@ -1,0 +1,12 @@
+{
+  "name": "snazzy-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Elegant Atom theme with bright colors",
+  "keywords": ["syntax", "theme"],
+  "repository": "https://github.com/baransu/snazzy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
