@@ -1,5 +1,11 @@
 # snazzy-syntax theme
 
-A short description of your theme.
+> Elegant [Atom](https://atom.io) theme with bright colors, based on [hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) theme by [Sindre Sorhus](https://github.com/sindresorhus).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![](screenshot.png)
+
+This is initial release and theme requires a lot of work.
+
+## License
+
+MIT © [Tomasz Cichociski](https://github.com/baransu)
